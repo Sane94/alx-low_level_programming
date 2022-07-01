@@ -1,11 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
 #include <string.h>
 /**
- * main - Entry point
- * Return: Always 0 (successful)
- * sanea valet
- */
+ *  * main - Entry point
+ *   * Return: Always 0 (Successful)
+ *    * ep ep me ooooooooo
+ *     */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
