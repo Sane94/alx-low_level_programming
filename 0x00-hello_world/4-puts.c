@@ -2,12 +2,12 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * main - Entry point
- * Return: Always 0 (successfully)
- * Sanae Valet
- */
-int main (void)
+ *  * main - Entry point
+ *   * Return: Always 0 (Successful)
+ *    * ep ep me ooooooooo
+ *     */
+int main(void)
 {
-	puts("/"Programming is like building a multiligual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
