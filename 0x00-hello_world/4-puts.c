@@ -3,9 +3,9 @@
 #include <string.h>
 /**
  * main - Entry point
- * Return: Always 0 (Successful)
- * sanae valet
-*/
+ * Return: Always 0 (successful)
+ * sanea valet
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
