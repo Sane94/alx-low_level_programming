@@ -1,3 +1,8 @@
+/*
+ * File: 2-print_strings.c
+ * Auth: Sane94
+ */
+
 #include "variadic_functions.h"
 #include <stdio.h>
 #include <stdarg.h>
@@ -26,6 +31,7 @@ else
 printf("%s", str);
 if (index != (n - 1) && separator != NULL)
 printf("%s", separator);
+}
 printf("\n");
 va_end(strings);
 }
