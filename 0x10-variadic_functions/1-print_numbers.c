@@ -1,6 +1,6 @@
 /*
  * File: 1-print_numbers.c
- * Auth: Odii Thank-God
+ * Auth: Sane94
  */
 #include "variadic_functions.h"
 #include <stdio.h>
